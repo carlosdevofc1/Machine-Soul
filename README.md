@@ -1,4 +1,4 @@
-# Nome do Jogo
+# tenho que pensar em um.
 
 Projeto final da disciplina de Introdução a Algoritmos/Programação, desenvolvido com Python e Pygame.
 
@@ -6,10 +6,8 @@ Este repositório é um template para os grupos da disciplina. A proposta é com
 
 ## Integrantes do grupo
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
-- Nome do integrante 4
+- Carlos F. Vieira Da ruz
+- Gabriel
 
 ## Estrutura do projeto
 
@@ -22,15 +20,15 @@ Este repositório é um template para os grupos da disciplina. A proposta é com
 
 ## Descrição do jogo
 
-Descreva brevemente a ideia principal do jogo.
+  A ideia principal é criar um souls like tipo hollow knight, o quanto eu preciso simplificar, eis a questão, mas, pelo menos um boss cabuloso tem que ter. Atualizar no final do projeto.
 
 Exemplo:
 
-> O jogo consiste em controlar um personagem que deve coletar moedas e evitar obstáculos. O jogador ganha pontos ao coletar itens e perde vidas ao colidir com obstáculos. A partida termina quando o tempo acaba ou quando o jogador perde todas as vidas.
+> O jogo consiste em controlar um personagem que deve lutar contra inimigos (minions e boss) para [objettivo a ser cnstruido]. O jogador ganha upgrades ao passar de fase e perde vidas ao tomar hits do inimigo. A partida termina quando o jogador morre ou zera o game, (teremos save).
 
 ## Objetivo do jogador
 
-Explique o que o jogador precisa fazer para vencer ou avançar no jogo.
+Derrotar todos os inimigos da possivel sala, ou fase.
 
 Exemplo:
 
@@ -41,6 +39,7 @@ Exemplo:
 Liste as principais regras do jogo.
 
 Exemplo:
+------------------mudar-------------------------
 
 - O jogador se movimenta usando as setas do teclado.
 - Cada item coletado aumenta a pontuação.
@@ -48,6 +47,7 @@ Exemplo:
 - A partida termina quando o jogador perde todas as vidas ou quando o tempo acaba.
 
 ## Controles
+-----------------mudar-------------------------
 
 Informe as teclas ou comandos utilizados no jogo.
 
