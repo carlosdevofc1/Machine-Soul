@@ -1,4 +1,4 @@
-# tenho que pensar em um.
+# Machine soul.
 
 Projeto final da disciplina de Introdução a Algoritmos/Programação, desenvolvido com Python e Pygame.
 
@@ -20,45 +20,44 @@ Este repositório é um template para os grupos da disciplina. A proposta é com
 
 ## Descrição do jogo
 
-  A ideia principal é criar um souls like tipo hollow knight, o quanto eu preciso simplificar, eis a questão, mas, pelo menos um boss cabuloso tem que ter. Atualizar no final do projeto.
+  A ideia principal é criar um souls like inspirado em hollow knight e skull: the hero slayer, onde faremos o player lutar contra inimigos e avançar na história.
 
 Exemplo:
 
-> O jogo consiste em controlar um personagem que deve lutar contra inimigos (minions e boss) para [objettivo a ser cnstruido]. O jogador ganha upgrades ao passar de fase e perde vidas ao tomar hits do inimigo. A partida termina quando o jogador morre ou zera o game, (teremos save).
+> O jogo consiste em controlar um personagem que deve lutar contra inimigos (minions e boss) para tentar reviver a humanidade e compreender como foi seu fim. O jogador ganha upgrades ao passar de fase e perde vidas ao tomar hits do inimigo. A partida termina quando o jogador morre ou zera o game, (teremos save).
 
 ## Objetivo do jogador
 
-Derrotar todos os inimigos da possivel sala, ou fase.
+Derrotar todos os inimigos da sala, ou fase.
 
 Exemplo:
 
-> O objetivo é coletar a maior quantidade possível de itens antes que o tempo acabe, evitando colisões com os obstáculos.
+> Nas salas normais o objetivo vai variar entre matar todos os minions e sobreviver por certo tempo.
+> Em uma sala de Boss, o único objetivo é vencer o inimigo.
 
 ## Regras do jogo
 
-Liste as principais regras do jogo.
+Liste as principais regras
 
-Exemplo:
-------------------mudar-------------------------
 
 - O jogador se movimenta usando as setas do teclado.
-- Cada item coletado aumenta a pontuação.
-- Colidir com um obstáculo reduz a quantidade de vidas.
-- A partida termina quando o jogador perde todas as vidas ou quando o tempo acaba.
+- Caso perca todas as vidas o player morre.
+- Existem 3 dificuldades, normal, hard e alma-pura.
+- só é possível jogar a dificuldade alma-pura após zerar o game em qualquer outra dificuldade.
 
 ## Controles
------------------mudar-------------------------
+
 
 Informe as teclas ou comandos utilizados no jogo.
 
 Exemplo:
 
-- Seta para cima: mover para cima
-- Seta para baixo: mover para baixo
-- Seta para esquerda: mover para esquerda
-- Seta para direita: mover para direita
-- Espaço: realizar ação
-- ESC: sair do jogo
+- AD para movimentação geral.
+- Barra de espaço ou B para saltar.
+- Q ou C para dar dash.
+- E para ataque simples.
+- F para ataque especial.
+- ESC para pausar o jogo.
 
 ## Como executar o projeto
 
