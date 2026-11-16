@@ -8,9 +8,9 @@ A proposta deve apresentar uma ideia simples, clara e viável para ser desenvolv
 
 Informe o nome provisório do jogo.
 
-**Nome: Machine soul**
+**Nome:**
 
-> Escreva aqui.
+> Machine soul
 
 ## 2. Integrantes do grupo
 
