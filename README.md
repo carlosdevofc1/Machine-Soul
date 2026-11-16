@@ -20,7 +20,7 @@ Este repositório é um template para os grupos da disciplina. A proposta é com
 
 ## Descrição do jogo
 
-  A ideia principal é criar um souls like inspirado em hollow knight e skull: the hero slayer, onde faremos o player lutar contra inimigos e avançar na história.
+  A ideia principal é criar um Metroidvania inspirado em hollow knight e skull: the hero slayer, onde faremos o player lutar contra inimigos e avançar na história.
 
 Exemplo:
 
